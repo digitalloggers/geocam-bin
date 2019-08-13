@@ -2,7 +2,7 @@
 
 Redistributed with GEO Semiconductor, Inc. permission (2019-04-11).
 
-Intended to be used together with the [UVC kernel patch](https://github.com/digitalloggers/geocam-uvc) and the [userspace V4L2 plugin](https://github.com/digitalloggers/geocam-v4l2).
+Intended to be used together with the (optional) [UVC kernel patch](https://github.com/digitalloggers/geocam-uvc) and the [userspace V4L2 plugin](https://github.com/digitalloggers/geocam-v4l2).
 
 Install files to locations of your convenience, and add a line similar to this:
 

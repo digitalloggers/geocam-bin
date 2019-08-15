@@ -102,6 +102,15 @@
             },
             "videoEncRateControlParams": {}
         },
+        "raw0": {
+            "type": "raw",
+            "parent": "nvppCH1",
+            "channel": "CH2",
+            "streamId": 0,
+            "captureFormat": "NV12",
+            "outAnalytics": 0,
+            "outRawFrame": 1
+        },
 
         "audfil0": {
             "type": "audfil",
